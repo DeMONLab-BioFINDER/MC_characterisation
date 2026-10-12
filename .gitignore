@@ -1,0 +1,33 @@
+#adding specific file types to ignore
+*.h5ad
+*.csv
+*.xlsx
+*.rds
+*.RData
+*.png
+*.pdf
+*.jpeg
+*.log
+*.tiff
+*.bmp
+*.DS_Store
+*.txt
+*.pyc
+*.out
+*.svg
+*.ai
+*.gtf
+*.tsv
+*.pyc
+
+#ignore data folders
+ROSMAP/_core_data/
+ROSMAP/Metacells15Jul/
+ROSMAP/CellphoneDb_test
+SEAAD_PFC/
+
+# ignore the environment
+SEAADpy/
+*.zip
+.vscode/
+__pycache__/
